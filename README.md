@@ -6,9 +6,9 @@ Clone the docker geant4.9 repository
 
 ```bash
 
-$ git clone https://github.com/ncastello/dockerfiles-geant4.9
+$ git clone https://github.com/ncastello/BDwP_I2S.git
 
-$ cd dockerfiles-geant4.9
+$ cd BDwP_I2S
 
 ```
 
