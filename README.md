@@ -2,7 +2,7 @@
 # BDwP_I2S
 ---
 
-Clone the docker geant4.9 repository
+Clone the repository 
 
 ```bash
 
