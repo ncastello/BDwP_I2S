@@ -12,6 +12,8 @@ $ cd BDwP_I2S
 
 ```
 
+or just download the data 
+
 ```bash
 $ git clone https://github.com/ncastello/BDwP_I2S.git
 
